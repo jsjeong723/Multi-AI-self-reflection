@@ -7,5 +7,5 @@
     이 교육과정 제안서의 소스코드는 [jsjeong723 GitHub](https://github.com/jsjeong723/Multi-AI-self-reflection/blob/main/%EA%B3%A0%EB%93%B1%ED%95%99%EC%83%9D_%EC%84%B1%EC%B0%B0_%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95_v1.2.md))에서 확인할 수 있습니다.
 
 *   **참고자료:**    
-  이 제안서의 참고자료인 '몸이 보배다'와 '못 없는 절'는 아래 팟캐스트에서 청취할 수 있습니다.
-[구름이이랑](https://open.spotify.com/show/4bqaFvUreGGYQyP47Aw0Il?si=jKngxTo4So6ljX6HdnYAUQ) 
+  이 제안서의 철학에세이 '몸이 보배다'와 '못 없는 절'은 팟캐스트 [구름이이랑](https://open.spotify.com/show/4bqaFvUreGGYQyP47Aw0Il?si=jKngxTo4So6ljX6HdnYAUQ)에서 참고하시기 바랍니다.
+

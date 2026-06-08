@@ -7,5 +7,9 @@
     이 교육과정 제안서의 소스코드는 [jsjeong723 GitHub](https://github.com/jsjeong723/Multi-AI-self-reflection/blob/main/%EB%A9%80%ED%8B%B0-AI_%ED%98%91%EB%A0%A5%ED%98%95_%EA%B3%A0%EB%93%B1%ED%95%99%EC%83%9D_%EC%84%B1%EC%B0%B0_%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95_v1.4.md)에서 확인할 수 있습니다.
 
 *   **참고자료:**    
-  이 제안서의 철학에세이 [몸이 보배다](https://www.yes24.com/product/goods/176318450)와 [못 없는 절](https://brunch.co.kr/@1d7cf56181b8448/1)'은 팟캐스트 [구름아이랑](https://open.spotify.com/show/4bqaFvUreGGYQyP47Aw0Il?si=jKngxTo4So6ljX6HdnYAUQ)에서 참고하시기 바랍니다.
+  이 제안서의 철학에세이 [몸이 보배다](https://www.yes24.com/product/goods/176318450)와 [못 없는 절](https://brunch.co.kr/@1d7cf56181b8448/1)은 팟캐스트 [구름아이랑](https://open.spotify.com/show/4bqaFvUreGGYQyP47Aw0Il?si=jKngxTo4So6ljX6HdnYAUQ)에서 참고하시기 바랍니다.
+
+*   **정책제안:** 
+이 교육과정 제안서는 [함께학교](https://github.com/jsjeong723/Multi-AI-self-reflection)에서 교육정책으로 제안되어 있습니다. 많은 성원을 부탁합니다.
+
 

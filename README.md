@@ -10,6 +10,6 @@
   이 제안서의 철학에세이 [몸이 보배다](https://www.yes24.com/product/goods/176318450)와 [못 없는 절](https://brunch.co.kr/@1d7cf56181b8448/1)은 팟캐스트 [구름아이랑](https://open.spotify.com/show/4bqaFvUreGGYQyP47Aw0Il?si=jKngxTo4So6ljX6HdnYAUQ)에서 참고하시기 바랍니다.
 
 *   **정책제안:** 
-이 교육과정 제안서는 [함께학교](https://github.com/jsjeong723/Multi-AI-self-reflection)에서 교육정책으로 제안되어 있습니다. 많은 성원을 부탁합니다.
+이 교육과정 제안서는 [함께학교]([https://github.com/jsjeong723/Multi-AI-self-reflection](https://www.togetherschool.go.kr/policy-proposal/detailView?pstId=91706)에서 교육정책으로 제안되어 있습니다. 많은 성원을 부탁합니다.
 
 
